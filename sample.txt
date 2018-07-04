@@ -1,0 +1,3 @@
+use the credentials to connect to repository
+username and email which are specified in github 
+-----
